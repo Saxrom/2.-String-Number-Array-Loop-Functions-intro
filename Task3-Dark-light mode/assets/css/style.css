@@ -1,0 +1,11 @@
+i{
+    position: fixed;
+    font-size: 25px;
+    background-color: gray;
+    padding: 5px 10px;
+    border-radius: 50%;
+    bottom: 20px;
+    right: 20px;
+    cursor: pointer;
+    transition: 1s;
+}
